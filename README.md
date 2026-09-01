@@ -4,6 +4,8 @@
 
 **[my-claude-skills](https://github.com/Jeric1223/my-claude-skills) 마켓플레이스에 등록된 Claude Code 스킬을 보여주는 쇼케이스 사이트**
 
+**[my-claude-skills-site.vercel.app →](https://my-claude-skills-site.vercel.app)**
+
 Next.js 16 · Tailwind CSS v4 · TypeScript
 
 <img src="./docs/hero-light.png" alt="라이트 모드 홈" width="100%" />
