@@ -65,6 +65,10 @@ Vercel에 저장소를 연결하면 기본 설정 그대로 동작합니다. 환
 
 빌드 머신이 `raw.githubusercontent.com`에서 인증 없이 레지스트리를 읽으므로, **스킬 저장소가 public이어야 빌드가 성공합니다.**
 
+## 이 사이트를 만들면서 쓴 글
+
+[![velog](https://velog-readme-stats.vercel.app/api?name=hoohoo0889)](https://velog.io/@hoohoo0889)
+
 ---
 
 <div align="center">
