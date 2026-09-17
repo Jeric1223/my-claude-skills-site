@@ -65,6 +65,12 @@ Vercel에 저장소를 연결하면 기본 설정 그대로 동작합니다. 환
 
 빌드 머신이 `raw.githubusercontent.com`에서 인증 없이 레지스트리를 읽으므로, **스킬 저장소가 public이어야 빌드가 성공합니다.**
 
+## 이 프로젝트를 만들며
+
+스킬 저장소의 `marketplace.json` 하나만 보고 이 사이트를 만든 이유와, 그 구조를 택하면서 감수한 것들을 글로 남겼습니다.
+
+→ [매 세션 똑같은 설명을 반복하고 있다면, 프롬프트 문제가 아닙니다](https://velog.io/@hoohoo0889/%EB%A7%A4-%EC%84%B8%EC%85%98-%EB%98%91%EA%B0%99%EC%9D%80-%EC%84%A4%EB%AA%85a%EC%9D%84-%EB%B0%98%EB%B3%B5%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8B%A4%EB%A9%B4-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EB%AC%B8%EC%A0%9C%EA%B0%80-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4)
+
 ---
 
 <div align="center">
